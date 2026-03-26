@@ -78,12 +78,6 @@ Full-stack chat application built with MERN.
 
 ---
 
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AmirCodes-786&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 🌐 Connect With Me
 
 LinkedIn  
