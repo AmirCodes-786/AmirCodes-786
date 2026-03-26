@@ -88,6 +88,9 @@ https://suhel-developer-portfolio.vercel.app
 
 ---
 
+## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/AmirCodes-786/AmirCodes-786/blob/output/github-contribution-grid-snake.svg)
+
 
 ⭐ If you like my work, consider following me!
